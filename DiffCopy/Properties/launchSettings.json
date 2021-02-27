@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiffCopy": {
+      "commandName": "Project",
+      "commandLineArgs": "-s C:\\Test\\Original -n C:\\Test\\New -o C:\\Test\\Output"
+    }
+  }
+}
